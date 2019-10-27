@@ -13,3 +13,6 @@ func mehodtwo()
 {
 
 }
+
+
+///ok
